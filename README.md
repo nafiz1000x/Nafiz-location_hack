@@ -25,8 +25,7 @@ python nafiz_location.py
 
 ---
 
-**যোগাযোগ এর জন্য**
-**Nafiz Sheikh**  
+**যোগাযোগ এর জন্য**  
 [Nafiz profile](https://nafiz1000x.github.io/Nafizsheikh.web/)
 ---
 
