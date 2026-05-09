@@ -26,9 +26,9 @@ python nafiz_location.py
 ---
 
 যোগাযোগ এর জন্য 
-
-https://nafiz1000x.github.io/Nafizsheikh.web/
--
+[Contact Nafiz]
+(https://nafiz1000x.github.io/Nafizsheikh.web/)
+---
 
 ---
 
