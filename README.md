@@ -1,7 +1,9 @@
 # Nafiz-location_hack
 
 ডেভেলপার: Nafiz Sheikh
+
   টেলিগ্রাম: @Nafizsheikh0x
+  
   চ্যানেল: https://t.me/nafizsheikhtech
 
 ---
@@ -10,13 +12,7 @@
 
 ```
 git clone https://github.com/nafiz1000x/Nafiz-location_hack.git
-```
-
-```
 cd Nafiz-location_hack
-```
-
-```
 python nafiz_location.py
 ```
 
