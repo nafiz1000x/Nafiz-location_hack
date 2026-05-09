@@ -1,7 +1,8 @@
 # Nafiz-location_hack
+
 ডেভেলপার: Nafiz Sheikh
-টেলিগ্রাম: @Nafizsheikh0x
-চ্যানেল: https://t.me/nafizsheikhtech
+  টেলিগ্রাম: @Nafizsheikh0x
+  চ্যানেল: https://t.me/nafizsheikhtech
 
 ---
 
